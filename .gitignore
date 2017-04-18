@@ -1,0 +1,12 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.bundle/
+vendor/
+bin/
+Gemfile.lock
+_site/
+.gitignore
+.vscode
